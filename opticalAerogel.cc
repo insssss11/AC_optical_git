@@ -1,4 +1,7 @@
-
+#include "TF1.h"
+#include "TCanvas.h"
+#include "TMath.h"
+#include "TGraph.h"
 
 int opticalAerogel(void)
 {
